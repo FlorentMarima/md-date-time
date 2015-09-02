@@ -11,6 +11,9 @@
   "keywords": [
     "AngularJS"
   ],
+  "main": [
+    "./dist/md-date-time.min.js"
+  ],
   "license": "MIT",
   "homepage": "http://simeonc.github.io/md-date-time",
   "main": "./dist/md-date-time.min.js",

@@ -12,7 +12,7 @@
     "AngularJS"
   ],
   "main": [
-    "./dist/md-date-time.min.js"
+    "./dist/md-date-time.js"
   ],
   "license": "MIT",
   "homepage": "http://simeonc.github.io/md-date-time",
